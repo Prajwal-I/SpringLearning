@@ -17,10 +17,10 @@ class ClassA {
 @Lazy
 @Component
 class ClassB {
-	private ClassA classa;
+	private ClassA classA;
 	
 	ClassB(ClassA classa) {
-		this.classa = classa;
+		this.classA = classa;
 		System.out.println("CLass B Cntr");
 	}
 	
