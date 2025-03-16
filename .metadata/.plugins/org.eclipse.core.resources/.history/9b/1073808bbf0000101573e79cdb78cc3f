@@ -1,0 +1,23 @@
+package com.in28minutes.learn_spring_framework.game;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class GameConfiguration {
+
+	@Bean
+	public MarioGame marioGame() {
+		return new MarioGame();
+	}
+	
+	@Bean
+	public SuperContraGame superContraGame() {
+		return new SuperContraGame();
+	}
+	
+	@Bean
+	public PacManGame pacManGame() {
+		return new PacManGame();
+	}
+}

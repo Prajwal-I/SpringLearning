@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.in28minutes.learn_spring_framework.HelloWorldConfiguration"/>
+    <fullyQualifiedTypeName name="com.in28minutes.learn_spring_framework.game.MarioGame"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="com.in28minutes.learn_spring_framework.game.PacManGame"/>
+    <fullyQualifiedTypeName name="com.in28minutes.learn_spring_framework.GamingConfiguration"/>
+    <fullyQualifiedTypeName name="com.in28minutes.learn_spring_framework.game.GamingConsole"/>
+    <fullyQualifiedTypeName name="com.in28minutes.learn_spring_framework.game.GameRunner"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+    <fullyQualifiedTypeName name="com.in28minutes.learn_spring_framework.examples.a1.DepInjectionLauncherApplication"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="com.in28minutes.learn_spring_framework.examples.a2.DataService"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Primary"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="com.in28minutes.learn_spring_framework.examples.a2.BusinessCalculationService"/>
+</qualifiedTypeNameHistroy>
