@@ -7,6 +7,12 @@ import org.springframework.stereotype.Component;
 @Component
 public class CurrencyServiceConfiguration {
 	
+//	@Value("${currency-service.url}")
+//	private String url;
+//	@Value("${currency-service.username}")
+//	private String username;
+//	@Value("${currency-service.key}")
+//	private String key;
 	
 	private String url;
 	private String username;
